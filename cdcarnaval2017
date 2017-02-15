@@ -17,7 +17,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7JAmZt
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nU1vTishZLE
                                                                                                                                                                                  
 #EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title=""CD",SAFADÃO ELÉTRICO 2017 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4OGi8LgDEeQ 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zCgKf7NPl7E
 
 #EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title=""CD",Chicabana - Carnaval 2017 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nC96PO7XKW4

@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]CD CARNAVAL 2017[/COLOR]
+
+#EXTINF:-1, [COLOR blue]LISTA DO JOK[/COLOR]
+
+#EXTINF:-1, [COLOR red]ATUALIZADA EM 15/02/2017[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/25/b0/54/25b05407dd9d8791c4dbc0bfac40f8cf.jpg" group-title="DESENHO",Bob Esponja - O Filme (2004)
+
+
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",ALMIR ROUCHE AS MELHORES" CARNAVAL 2017
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vxUqJDrAgX4
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",FREVOS DE RECIFE E OLINDA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7JAmZtsoM3U
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",AVIÕES ELÉTRICO CARNAVAL 2017
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Tb9sU2N9fLU 
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",SAFADÃO ELÉTRICO 2017 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4OGi8LgDEeQ 
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",Chicabana - Carnaval 2017 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=02puhQl-wFk
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",BELL MARQUES E DURVAL LELYS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lqaQJynd8RU  
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",PATCHANKA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fhwcSwv6NvU 
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",Solange Almeida - Fevereiro 2017
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ElH3sCvuBic 
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",VERÃO 2017 - SO LANÇAMENTO 2017 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qM1YFOwGWLw  
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO", Léo Santana - Carnaval 2017 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xwPdf71HWnc 
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",Chico Science & Nação Zumbi Da Lama ao Caos 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f4Ptgb2HaXU 
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO",Saulo - CD Seleção Pro Carnaval 2017
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UnDGZ8Kv36U 
+
+#EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title="DESENHO", TIMBALADA - FEVEREIRO 2017
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nBvYXpW02lQ  
+

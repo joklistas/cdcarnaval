@@ -29,7 +29,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TC3bW6
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Wa-KEMzM6jA 
 
 #EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title=""CD",Solange Almeida - Fevereiro 2017
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HI6TWY0-p3I
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R_NzIK8lFig
 
 #EXTINF:-1 tvg-logo="http://www.downloadsmusicagratis.com/wp-content/uploads/2017/01/baixar-carnaval-2017-cj-tiago-albuquerque.jpg" group-title=""CD",VERÃO 2017 - SO LANÇAMENTO 2017 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rKece2c_CCc
